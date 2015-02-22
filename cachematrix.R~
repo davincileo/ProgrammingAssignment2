@@ -1,6 +1,6 @@
 ##This source file contains two functions:
 ## makeCacheMatrix : To return a list of functions for getting and setting the matrix and inverses
-## cacheSolve : Computes and returns the inverse of the matrix if not cached
+## cacheSolve :
 
 ## The makeCacheMatrix returns a list containing the following functions :
 ## set : set the value of the Matrix
